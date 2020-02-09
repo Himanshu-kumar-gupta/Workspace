@@ -5,4 +5,5 @@ b = 29;
 
 printf(a);
 printf(b);
+printf(a+b);
 }
